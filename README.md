@@ -1,5 +1,1 @@
-#### README!
-### README!
-## README!
-# README!
- README!
+# Example for an responsive Image-map in HTML
